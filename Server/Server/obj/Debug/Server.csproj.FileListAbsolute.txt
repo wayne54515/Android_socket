@@ -1,0 +1,15 @@
+D:\InstituteSummerHW\android_socket\Server\Server\bin\Debug\Server.exe.config
+D:\InstituteSummerHW\android_socket\Server\Server\bin\Debug\Server.exe
+D:\InstituteSummerHW\android_socket\Server\Server\bin\Debug\Server.pdb
+D:\InstituteSummerHW\android_socket\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\InstituteSummerHW\android_socket\Server\Server\obj\Debug\MainWindow.g.cs
+D:\InstituteSummerHW\android_socket\Server\Server\obj\Debug\App.g.cs
+D:\InstituteSummerHW\android_socket\Server\Server\obj\Debug\Server_MarkupCompile.cache
+D:\InstituteSummerHW\android_socket\Server\Server\obj\Debug\Server_MarkupCompile.lref
+D:\InstituteSummerHW\android_socket\Server\Server\obj\Debug\MainWindow.baml
+D:\InstituteSummerHW\android_socket\Server\Server\obj\Debug\Server.g.resources
+D:\InstituteSummerHW\android_socket\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\InstituteSummerHW\android_socket\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\InstituteSummerHW\android_socket\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\InstituteSummerHW\android_socket\Server\Server\obj\Debug\Server.exe
+D:\InstituteSummerHW\android_socket\Server\Server\obj\Debug\Server.pdb
